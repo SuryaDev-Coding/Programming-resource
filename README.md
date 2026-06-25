@@ -15,4 +15,5 @@ Guys this is the github, from this place I will create many files which contains
 9. Communication is very important skill, I believe the most important. Being likable is 10x more important than being competant. I am not saying you should suck up to your seniors but be welcoming and approach. Coding is never a solo job, it is always a team. Learn how to work in team, help others, *be helped*. I suggest you to do Smart Indian Hackathon(SIH) which if you win is a THE achievement, but it requires six members including atleast one female memeber.
 10. The best source of knowledge about college, oppurtunity, good professor is senior so use them and be useful when you are one.
 11. Guys after you learned about Github, make changes to this repositary.
-12. Last but not least, enjoy college and take care of your health, after all you can be young only once, this is your last opportunity.  
+12. Guys do not be afraid of AI taking over your job, because the companies who fired humans and replaced them with AI are now reverting because AI is not as competent as they thought and it was not free.
+13. Last but not least, enjoy college and take care of your health, after all you can be young only once, this is your last opportunity.  
