@@ -1,16 +1,18 @@
 # Components:
-Note: Difficulty->D:H/M/L and Competition->C:H/M/L Do not decide using this, this is just info.
+Note: Difficulty->D: High/Medium/Low and Competition->C: High/Medium/Low. Do not decide using this, this is just info.
 * ### Systems programming: [Low Level](https://www.youtube.com/@LowLevelTV) D:H C:L
   Hardware interaction with software.
   * **Operating Systems**: OS for windows, linux, macos. *C, C++, Assembly, Rust*
   * **Embedded Systems & Iot**: Cars, modems, microcontrollers . *C, C++, Rust*
   * **Compilers**: High level prgramming language to machine instruction. *C++, Rust, OCaml*
   * **Game Engine**: Not game, but app used to build games. *C++, C#(unity)*
+    #### Road Map: Learn/Master C -> Book CS:APP -> Operating system: Three easy pieces
 * ### Web development: [Traversy Media](https://www.youtube.com/@traversymedia) D:M C:H (but if and/or backend)C:M-H 
   Programs for internet, website, servers.
   * **Frontend**: The website that user sees. *Javascript, Typescript, HTML, CSS*
   * **Backend**: The program running on server which enables frontend. **Python, Java, Javascript/Typescript(Node.js), Go, C#, ruby, PHP(maintanance)*
   * **Full Stack**: Programmer who does both frontend and backend.
+    #### Roadmap: Learn HTML/CSS/Javascript -> Frontend: React | Backend: Node.js or python
 * ### Mobile app development: [2days long video, watch it over a semester, while building](https://www.youtube.com/watch?v=blKkRoZPxLc) D:M C:M
   Apps for mobile phone.
   * **IOS**: Apps for apple device. *Swift, Objective-C(Old program maintance)*
