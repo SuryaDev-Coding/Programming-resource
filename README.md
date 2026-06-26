@@ -16,4 +16,6 @@ Guys this is the github, from this place I will create many files which contains
 10. The best source of knowledge about college, oppurtunity, good professor is senior so use them and be useful when you are one.
 11. Guys after you learned about Github, make changes to this repositary.
 12. Guys do not be afraid of AI taking over your job, because the companies who fired humans and replaced them with AI are now reverting because AI is not as competent as they thought and it was not free.
-13. Last but not least, enjoy college and take care of your health, after all you can be young only once, this is your last opportunity.  
+13. Guys I would show multiple youtube channels for learning, but the way to learn programming is to program, watch not every video to end, start understand and then build, continue watching or just keep building.
+14. Guys in India, there is a serious defecit in R&D roles, research is so low in India, that it does not make any sense. So I highly suggest reading a research paper in second year, help a senior or professor in their research paper and finally try to write your own.
+15. Last but not least, enjoy college and take care of your health, after all you can be young only once, this is your last opportunity.  
