@@ -17,7 +17,7 @@ Guys this is the github, from this place I will create many files which contains
 #### 💼Skills:
 1. Competative programming - CP, it is important for placement but it is not everything. Do enough CP, but if you genuinly like it, do to your heart contents but it is not alone enough. It is done in [Leetcode.com](https://leetcode.com/) but it is bit higher level, so for now use [Codechef.com](https://www.codechef.com/)
 2. Communication is very important skill, I believe the most important. Being likable is 10x more important than being competant. I am not saying you should suck up to your seniors but be welcoming and approach. Coding is never a solo job, it is always a team. Learn how to work in team, help others, *be helped*. I suggest you to do Smart Indian Hackathon(SIH) which if you win is a THE achievement, but it requires six members including atleast one female memeber.
-3. Do not ignore DSA and OOP, it is a little harder but useful for jobs.
+3. Do not ignore [DSA](https://www.youtube.com/watch?v=-PPCDEOOYF0)(Used for MNC{Google, Amazon} interview) and OOP. It is hard so many people 
 4. Guys after you learned about Github, make changes to this repositary.
 
 #### 🤔Suggestion:
