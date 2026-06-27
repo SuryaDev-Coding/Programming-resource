@@ -42,6 +42,6 @@ Note: Difficulty->D: High/Medium/Low and Competition->C: High/Medium/Low. Do not
     How to get started: **⚠️Disclaimir: There is NO entry level job for DevOps, it is a senior level job. I warn you about clickbait youtube videos which promise 20 lakhs job for DevOps, it exists but not for entry level. I higly suggest doing from above.** But here what you need to learn is Linux and Github. [RoadMap](https://www.youtube.com/watch?v=6GQRb4fGvtk)
     
 * ## *CyberSecurity*: D:H C:M(L high skill)
-  Cybersecurity cuts across every single section, you can become a cybersecurity engineer from any of the above. Yet again, it is not a entry level job, it is senior job. Learn this in third semester. [Roadmap](https://www.youtube.com/watch?v=v7BNtpw53AA)
+  Cybersecurity cuts across every single section, you can become a cybersecurity engineer from any of the above. Yet again, it is not a entry level job, it is senior job. Learn this in third semester. [Roadmap](https://www.youtube.com/watch?v=v7BNtpw53AA) -> Resource: [TryHackMe](https://tryhackme.com/)
 
 **NOTE:** There are many sections of Computer science, if you know what you interests you, pursue it but if you do not. I highly suggest trying all of the above sections from 'How to Get started' and doing it for a month, Try every section for 1 month and what you like, double down on it.
