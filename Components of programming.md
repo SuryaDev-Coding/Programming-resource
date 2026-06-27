@@ -15,7 +15,7 @@ Note: Difficulty->D: High/Medium/Low and Competition->C: High/Medium/Low. Do not
   * **Full Stack**: Programmer who does both frontend and backend.
 
     How to get started: Learn HTML;CSS -> Learn Javascript -> Project: [Website](https://www.youtube.com/watch?v=-u3vE84Wo_U)
-* ### Mobile app development: [2days long video, watch it over a semester, while building](https://www.youtube.com/watch?v=blKkRoZPxLc) D:M C:M
+* ### Mobile app development: [Complete Flutter course](https://www.youtube.com/watch?v=VPvVD8t02U8) D:M C:M
   Apps for mobile phone.
   * **IOS**: Apps for apple device. *Swift, Objective-C(Old program maintance)*
   * **Android**: Apps for android. *Java, Kotlin*
