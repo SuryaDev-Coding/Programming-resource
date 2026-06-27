@@ -6,3 +6,4 @@ This is not absolutely important but if you have a good coding environment it wi
 * Github: It is used for version control and other things. [Download Git](https://www.youtube.com/watch?v=t2-l3WvWvqg) | [Setting GIT](https://www.youtube.com/watch?v=i_23KUAEtUM)
 * **DISCLAIMER: This could be very dangerous and could destroy your files**. Installing Linux, it is a os like windows and mac but free and open source. I cannot provide any link as if you do not know what you are doing you can mess up your computer maybe after second year install this, but if you are willing to bite the bullet, do it with caustion.
 * Optional: But you can try linux environment within windows, using Windows subsystem for Linux. [WSL](https://www.youtube.com/watch?v=zZf4YH4WiZo). With this you can run linux on windows this is helpful for learning linux, as every server is linux.
+
