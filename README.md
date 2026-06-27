@@ -6,7 +6,7 @@ Guys this is the github, from this place I will create many files which contains
 ## 🎯To do:
 #### 🎓Academic Goals:
 1. Keep CGPA, the marking system in college, fairly high from the start. It is easier to maintain high CGPA, then to save a failing one, it is used for screening students who get to interview stage of placement.
-2. The first semester will be tough, because all engineering students will learn the same, but build the FOUNDATION. Try everything in CS, it is indeed a vast ocean, from game development to OS develpoment to web development, which comprise of backend/Front end to AI develpoment. Try those and which exicites you, seems interesting to you, double down on it. DO not try to learn everything at once, double down on one thing.
+2. The first semester will be tough, because you are starting a new journey in a new place, learning new things. But I ask you to spend atleast two hours a day for experiments and building THE FOUNDATION by trying out different sections of computer science. There is a file for it.
 3. The best source of knowledge about college, oppurtunity, good professor is senior so use them and be useful when you are one.
 
 #### 👨‍💻Programming Goals:
