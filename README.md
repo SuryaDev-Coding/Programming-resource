@@ -1,8 +1,4 @@
 # Programming-resource
-This is created by Bofurin members for programming.
-
-Guys this is the github, from this place I will create many files which contains resource that I find useful.
-
 ## 🎯To do:
 #### 🎓Academic Goals:
 1. Keep CGPA, the marking system in college, fairly high from the start. It is easier to maintain high CGPA, then to save a failing one, it is used for screening students who get to interview stage of placement.
