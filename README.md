@@ -8,7 +8,7 @@
 #### 👨‍💻Programming Goals:
 1. Learn Python. It can be learned very fast and so you can start building first.
 2. Best way to learn a programming language is to program, I will give a list of projects that I think will be useful and solution to them, but do not look at solution until you try atleast thrice. Learn how to start coding.
-3. When in doubt, or there is a error in program, do not use google or gpt, find where is the error, try to think what can be wrong, if you cannot, just try different things, till it works or breaks further in which case repeat. The best way to learn programming is by mistake.
+3. When in doubt, or there is a error in program, Try not to use google or gpt, find where is the error, try to think what can be wrong, if you cannot, just try different things, till it works or breaks further in which case repeat. The best way to learn programming is by mistake.
 
 #### 💼Skills:
 1. Competative programming - CP, it is important for placement but it is not everything. Do enough CP, but if you genuinly like it, do to your heart contents but it is not alone enough. It is done in [Leetcode.com](https://leetcode.com/) but it is bit higher level, so for now use [Codechef.com](https://www.codechef.com/)
