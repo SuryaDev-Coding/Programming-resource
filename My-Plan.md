@@ -37,7 +37,7 @@
 * Try Smart Indian Hackathon, for the grand prize of 1 lakh.
 * If I like research, Write my own research paper.
  ### Sixth semester:
-* Try to do a work internship, It would be most probably in leave.
+* Try to do a google internship, if done life tracjectry blown away.
 * Soldify my German skills.
  ### Seventh semester:
 * If I like:
