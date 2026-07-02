@@ -5,3 +5,4 @@
 *  do problem solving and logical thinking
 *  always think out of the box because many MNC companies asking logical question so tricky so use this web to make ur thinking better in programming languages [Brilliant](https://brilliant.org/welcome/recommendations/?tour=true&signup=1#learning-path)
 *  [LEETCODE](https://leetcode.com) solve problems by this website
+## First year of college: 
