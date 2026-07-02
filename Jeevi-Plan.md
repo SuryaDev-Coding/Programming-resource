@@ -18,4 +18,5 @@ try to learn web devlopment while learning web devlopment master the DSA and the
 * solve atleast 300+ problems in leetcode.
 * improve logical thinking by brilliant.
 * learn web devlopment and be a full stack devloper.
-  if u do all this ny second year you can absoultely get intenship by the third year so do this things properly.
+
+if u can do all this by second year you can absoultely get intenship by the third year so do this things properly.
