@@ -1,4 +1,5 @@
 # Project Ideas:
+## Easy:
 * Print a table, which converts celsius to farenheit, on steps of 10 from 0 to 100.
   
   eg:
