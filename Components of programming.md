@@ -7,7 +7,7 @@ Note: Difficulty->D: High/Medium/Low and Competition->C: High/Medium/Low. Do not
   * **Compilers**: High level prgramming language to machine instruction. *C++, Rust, OCaml*
   * **Game Engine**: Not game, but app used to build games. *C++, C#(unity)*
 
-    How to get begin: Learn C -> Book CS:APP First chapter -> Project: [Unix Shell](https://gemini.google.com/app/a66bdd88dd1d542f)
+    How to get begin: Learn C -> Book CS:APP First chapter -> Project: [Unix Shell](https://www.youtube.com/watch?v=yTR00r8vBH8&t=1s)
 * ### Web development: [Traversy Media](https://www.youtube.com/@traversymedia) D:M C:H (but if and/or backend)C:M-H 
   Programs for internet, website, servers.
   * **Frontend**: The website that user sees. *Javascript, Typescript, HTML, CSS*
