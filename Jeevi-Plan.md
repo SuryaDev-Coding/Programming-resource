@@ -20,3 +20,16 @@ try to learn web devlopment while learning web devlopment master the DSA and the
 * learn web devlopment and be a full stack devloper.
 
 if u can do all this by second year you can absoultely get intenship by the third year so do this things properly.
+## Third year of the college:
+After all this you will be ready to get a intenship for your skills. apply for intenships and if you get a intenship learn everything more practical in the company and be good and crave to learn things in the company there because the more you learn the more you improve your life if you dont get a intenship study more and sacrifice you for your better future.
+### if you dont get the intenship in the third year try this...
+* master what you learnt already
+* learn other specilizations in the csc like block chain stuffs
+## Fourth year of the college:
+prepare for your interview take mock interview test and get ready to get into the company you want the most because if you did the above things and collect the information about your dreamm company upto date you can get your dream company
+* aplly widely
+* improve the communication
+* pratice mock test
+* strengthen the resume
+  
+that's it be cool keep learing if you dont get the dream company be positive put efforts and then trust yourself improve everyday. 
