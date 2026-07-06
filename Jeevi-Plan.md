@@ -27,7 +27,7 @@ After all this you will be ready to get a intenship for your skills. apply for i
 * learn other specilizations in the csc like block chain stuffs
 ## Fourth year of the college:
 prepare for your interview take mock interview test and get ready to get into the company you want the most because if you did the above things and collect the information about your dreamm company upto date you can get your dream company
-* aplly widely
+* apply widely
 * improve the communication
 * pratice mock test
 * strengthen the resume
